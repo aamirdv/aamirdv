@@ -28,17 +28,6 @@ I mostly build for the web — React and Next.js on the frontend, Python (Flask 
 </tr>
 </table>
 
-<br>
-
-### Most used languages
-
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=2D2D3A" />
-</div>
-
-<br>
-
 ### GitHub stats
 
 <table align="center">
