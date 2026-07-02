@@ -50,7 +50,9 @@ based_in: Iran 🇮🇷
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=aamirdv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aamirdv&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://streak-stats.demolab.com?user=aamirdv&theme=tokyonight&hide_border=true" width="49%" />
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamirdv&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
@@ -62,12 +64,15 @@ based_in: Iran 🇮🇷
 
 <div align="center">
 
-<!-- Uncomment and add your real links -->
-<!--
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
--->
+<a href="https://t.me/aamirdv" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="mailto:amirdvem@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://instagram.com/amirdvemm" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
