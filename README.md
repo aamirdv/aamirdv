@@ -18,14 +18,6 @@
 
 I mostly build for the web — React and Next.js on the frontend, Python (Flask or Django) whenever there's a backend involved. Lately I've also been spending some of my time learning how AI and machine learning actually work under the hood, beyond just using pre-built tools.
 
-<br>
-
-### Currently
-
-- Learning the fundamentals of AI and machine learning
-
-<br>
-
 ### Tech stack
 
 <table align="center">
