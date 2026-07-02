@@ -1,78 +1,52 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A5AF9&height=180&section=header&text=Amir&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8C0FF,50:C2A8FF,100:FFD6E8&height=190&section=header&text=Amir&fontSize=50&fontColor=2D2D3A&animation=fadeIn&fontAlignY=42" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6A5AF9&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;React+%2B+Next.js+Developer;Python+%2F+Flask+%2F+Django+Backend;Exploring+Artificial+Intelligence" alt="Typing SVG" />
+<h3>Web Developer, mostly living in React and Python</h3>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=6A5AF9&center=true&vCenter=true&width=600&lines=React+%2B+Next.js+on+the+frontend;Flask+%26+Django+on+the+backend;currently+messing+around+with+AI" alt="Typing SVG" />
 
-<a href="https://github.com/aamirdv">
-  <img src="https://img.shields.io/badge/GitHub-aamirdv-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<br/><br/>
 
-</div>
-
-<br/>
-
-## 👋 About Me
-
-I'm **Amir**, a full-stack web developer who enjoys turning ideas into clean, functional products. I build interfaces with **React** and **Next.js**, develop backends with **Python** — using **Flask** and **Django** — and I'm expanding into **Artificial Intelligence** to build smarter applications.
-
-```yaml
-name: Amir
-role: Full-Stack Web Developer
-focus: [React, Next.js, Python, Flask, Django, AI]
-currently_learning: AI / Machine Learning integration
-based_in: Iran 🇮🇷
-```
-
-<br/>
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=python,flask,django&theme=dark" />
-
-### Tools & Others
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<a href="https://github.com/aamirdv"><img src="https://img.shields.io/badge/GitHub-F5F5F7?style=for-the-badge&logo=github&logoColor=181717" /></a>
+<a href="https://t.me/aamirdv"><img src="https://img.shields.io/badge/Telegram-F5F5F7?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a>
+<a href="mailto:amirdvem@gmail.com"><img src="https://img.shields.io/badge/Email-F5F5F7?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
+<a href="https://instagram.com/amirdvemm"><img src="https://img.shields.io/badge/Instagram-F5F5F7?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## About
 
-<div align="center">
+I build things for the web — mostly with **React** and **Next.js** on the frontend, and **Python** (**Flask**, **Django**) when I need a backend to go with it. Right now I'm spending a lot of my free time learning how to actually use AI in real projects instead of just reading about it.
 
-<img src="https://github-readme-stats.vercel.app/api?username=aamirdv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com?user=aamirdv&theme=tokyonight&hide_border=true" width="49%" />
+I like clean code more than clever code, and I'd rather ship something small that works than something big that doesn't.
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamirdv&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+## What I work with
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,python,flask,django,git,github,vscode&theme=light" />
 
 </div>
 
 <br/>
 
-## 📫 Connect with Me
+## Get in touch
+
+Feel free to reach out — I'm around on:
 
 <div align="center">
 
-<a href="https://t.me/aamirdv" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="mailto:amirdvem@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://instagram.com/amirdvemm" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+| | |
+|:--|:--|
+| GitHub | [github.com/aamirdv](https://github.com/aamirdv) |
+| Telegram | [@aamirdv](https://t.me/aamirdv) |
+| Email | [amirdvem@gmail.com](mailto:amirdvem@gmail.com) |
+| Instagram | [@amirdvemm](https://instagram.com/amirdvemm) |
 
 </div>
 
@@ -80,12 +54,12 @@ based_in: Iran 🇮🇷
 
 <div align="center">
 
-### 🇮🇷 معرفی به فارسی
+### به فارسی
 
-سلام! من امیر هستم، یک توسعه‌دهنده وب. با **React** و **Next.js** رابط کاربری می‌سازم و با **Python** (فلسک و جنگو) بک‌اند توسعه می‌دهم. همچنین در حال یادگیری **هوش مصنوعی** هستم تا اپلیکیشن‌های هوشمندتری بسازم.
+سلام، من امیرم. یه توسعه‌دهنده وب که بیشتر با React و Next.js کار می‌کنم و برای بک‌اند سراغ Python و Flask یا Django می‌رم. این روزها هم دارم روی هوش مصنوعی کار می‌کنم که ببینم توی پروژه‌های واقعی چطور می‌شه ازش استفاده کرد.
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5AF9,100:2E9EF7&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:C2A8FF,100:A8C0FF&height=110&section=footer" width="100%"/>
